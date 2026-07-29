@@ -1,4 +1,4 @@
-package javaBasic.class1.student;
+package javaBasic.class1;
 
 public class ClassStart3 {
 
