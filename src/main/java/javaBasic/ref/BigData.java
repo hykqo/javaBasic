@@ -1,0 +1,6 @@
+package javaBasic.ref;
+
+public class BigData {
+    Data data; //초기값 null
+    int count; //0
+}
