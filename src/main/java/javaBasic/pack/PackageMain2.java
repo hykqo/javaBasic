@@ -1,8 +1,8 @@
-package javaBasic.pack.a;
+package javaBasic.pack;
 
-import javaBasic.pack.Data;
+import javaBasic.pack.a.*;
 
-public class PackageMain1 {
+public class PackageMain2 {
 
     public static void main(String[] args) {
         Data data = new Data();
