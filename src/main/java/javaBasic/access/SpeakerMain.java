@@ -12,7 +12,7 @@ public class SpeakerMain {
         speaker.showVolume();
 
         System.out.println("volume directly increased");
-        speaker.volume = 200;
+//        speaker.volume = 200;
         speaker.showVolume();
     }
 }
